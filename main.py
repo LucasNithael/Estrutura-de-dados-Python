@@ -1,4 +1,3 @@
-import numpy as np
-matriz = np.array([[3, 4, 1],
-                   [3, 1, 5]])
-print(matriz)
+l = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+for i in range(5):
+  print(i)
