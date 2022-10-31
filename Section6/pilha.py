@@ -1,6 +1,6 @@
 
 
-vvsdvimport numpy as np
+import numpy as np
 
 class Pilha:
   def __init__(self, capacidade):
